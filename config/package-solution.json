@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "promigas-trm-client-side-solution",
+    "id": "df5e0610-77af-4e67-ab91-1cac2a33ff5f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/promigas-trm.sppkg"
+  }
+}

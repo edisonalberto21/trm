@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "promigas-trm",
+    "libraryId": "df5e0610-77af-4e67-ab91-1cac2a33ff5f",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
